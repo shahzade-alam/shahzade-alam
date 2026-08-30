@@ -22,7 +22,7 @@ I work primarily with **PHP, Laravel, MySQL, REST APIs, JavaScript, jQuery, AJAX
 
 ## 🛠️ Technical Skills
 
-**Backend**
+### Backend
 
 * PHP
 * Laravel
@@ -34,7 +34,7 @@ I work primarily with **PHP, Laravel, MySQL, REST APIs, JavaScript, jQuery, AJAX
 * Middleware
 * Queues & Jobs
 
-**Database**
+### Database
 
 * MySQL
 * Database Design
@@ -42,7 +42,7 @@ I work primarily with **PHP, Laravel, MySQL, REST APIs, JavaScript, jQuery, AJAX
 * Eloquent Relationships
 * Query Optimization
 
-**Frontend**
+### Frontend
 
 * HTML5
 * CSS3
@@ -52,7 +52,7 @@ I work primarily with **PHP, Laravel, MySQL, REST APIs, JavaScript, jQuery, AJAX
 * AJAX
 * Blade
 
-**Tools & APIs**
+### Tools & APIs
 
 * Git
 * GitHub
@@ -108,7 +108,7 @@ Key areas include:
 
 ### 🛒 SvaMart
 
-E-commerce web application developed using PHP and Laravel.
+E-commerce web application developed using **PHP and Laravel**.
 
 Worked on application development, database operations, e-commerce functionality, maintenance and improvements.
 
@@ -129,6 +129,8 @@ Laravel 12 application featuring:
 * Dashboard
 * Database management
 
+[View Repository](https://github.com/shahzade-alam/student-management-system)
+
 ---
 
 ### 🕌 DewaSharif
@@ -139,6 +141,10 @@ Laravel-based website featuring:
 * Advertisements
 * Video sections
 * Responsive user interface
+
+[Visit DewaSharif](https://dewasharif.com/)
+
+[View Repository](https://github.com/shahzade-alam/DewaSharif)
 
 ---
 
@@ -152,6 +158,10 @@ College Management System developed using:
 * Bootstrap
 
 Contributed as a team member in feature development, maintenance and application improvements.
+
+[Visit R.K. College](https://rkclnmu.ac.in/)
+
+[View Repository](https://github.com/shahzade-alam/RKCollege)
 
 ## 📌 What I Can Work On
 
@@ -169,7 +179,7 @@ Contributed as a team member in feature development, maintenance and application
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/shahzade-alam
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: https://www.linkedin.com/in/shahzade-alam-a964241a2/
 
 ## 💼 Availability
 
